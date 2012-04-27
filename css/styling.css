@@ -1,10 +1,10 @@
-  html, body, div, p, h1, h2, h3, blockquote, ol, ul, li, dl, dt, dd, td, form, fieldset, a {
+html, body, div, p, h1, h2, h3, blockquote, ol, ul, li, dl, dt, dd, td, form, fieldset, a {
 	margin: 0;
 	padding: 0;
 	border: 0;
 }
 
-body {background: #9c9 url(images/background.gif) repeat-x left top; }
+body {background: #9c9 url(/images/background.gif) repeat-x left top; }
 
 #contentWrapWider {
 	width:925px;
