@@ -2,12 +2,20 @@ ErrorDocument 404 /404.php
 DirectoryIndex index.php
 
 # Prevent directory listings
-Options All -Indexes
+#Options +Indexes
+#Options +FollowSymLinks
 
-<Files .htaccess>
-	order allow,deny
-	deny from all
-</Files>
+#<Files .htaccess>
+#	order allow,deny
+#	deny from all
+#</Files>
+
+<Directory />
+	Options Indexes Includes FollowSymLinks MultiViews
+	AllowOverride AuthConfig
+	Order allow,deny
+	Allow from all
+</Directory>
 
 # moved these files
 Redirect 301 /archives/forumquotes.html /archives/
