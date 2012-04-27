@@ -33,7 +33,7 @@
       </div>
       <div id="mainBody">
         <h1>Success Stories</h1>
-        <p>As I prepared to write <em>The Shangri-La Diet</em>, I gathered success stories from my friends. After the <em>Freakonomics</em> column about the diet, however, my collection of stories was swamped by a much larger number of success stories posted on the Web. This page provides a sampling. In the <a href="http://boards.sethroberts.net">forums</a> over 100 people are posting their <a href="http://boards.sethroberts.net/index.php?PHPSESSID=cbbc4a82d3aa646123ee19ecdb2c7c60&amp;board=5.0">progress</a>.</p>
+        <p>As I prepared to write <em>The Shangri-La Diet</em>, I gathered success stories from my friends. After the <em>Freakonomics</em> column about the diet, however, my collection of stories was swamped by a much larger number of success stories posted on the Web. This page provides a sampling. In the <a href="http://boards.sethroberts.net/">forums</a> over 100 people are posting their <a href="http://boards.sethroberts.net/index.php?PHPSESSID=cbbc4a82d3aa646123ee19ecdb2c7c60&amp;board=5.0">progress</a>.</p>
 
         <h2>Ann &amp; Co.</h2>
         <p>After Ann Hendricks started her <a href="http://shangrilawatcher.blogspot.com/">blog</a>, about a dozen people regularly reported their progress. Almost all were successful - so much so that Ann asked people to post failures. She didn't get many.</p>

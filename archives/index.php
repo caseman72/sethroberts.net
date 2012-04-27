@@ -20,10 +20,10 @@
         <div id="topNav">
           <ul>
             <li id="forums">
-              <a class="yo" href="http://boards.sethroberts.net">Forums</a>
+              <a class="yo" href="http://boards.sethroberts.net/">Forums</a>
             </li>
             <li id="blog">
-              <a class="yo" href="http://blog.sethroberts.net">Blog</a>
+              <a class="yo" href="http://blog.sethroberts.net/">Blog</a>
             </li>
             <li id="buy">
               <a class="yo" href="http://www.amazon.com/gp/product/0399153640/ref=ase_sethrobertand-20/102-8713461-6299310?s=books&amp;v=glance&amp;n=283155&amp;tagActionCode=sethrobertand-20">Buy the Book</a>

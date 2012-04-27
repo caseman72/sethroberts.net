@@ -64,7 +64,7 @@
         </div>
         <!--   Section Three   -->
         <div id="quoteBox1">
-          <h2><a href="http://boards.sethroberts.net"><img src="/images/hotForumsHeader.png" alt="Hot of the Forums" width="400" height="33" border="0"/></a></h2>
+          <h2><a href="http://boards.sethroberts.net/"><img src="/images/hotForumsHeader.png" alt="Hot of the Forums" width="400" height="33" border="0"/></a></h2>
           <!--   Begin Quotes   -->
           <p>&#x201C;I am seeing some results -- I am feeling fuller with smaller portions and my sweet tooth seems to have lost its fangs.  Example: It is normal for me to eat one of those 2-portion bags of M&amp;M's in one sitting, but on Friday at the movies, I only ate half.  And, weirder still, I still have possession of the bag and <em>there are still M&amp;M's in there</em>.&#x201D; &#x2014; <a href="http://boards.sethroberts.net/index.php?topic=988.msg7351#msg7351 ">melissacb</a></p>
           <p>&#x201C;The  loss of appetite is wonderful so I quit when I am full -- so yes I have changed my eating habits. This morning I woke up no appetite. I used to be a big breakfast eater so scrambled a couple of eggs could only eat one so shared them with my dog. 'The dog is loving my loss of appetite too.' I also am drinking a lot more water. I used to choke it down; now it is my drink of choice. I think for me snacking was my demon -- after lunch within 15 minutes I would be hungry again and would eat from that time on until after dinner and I am not tempted anymore.&#x201D; &#x2014; <a href="http://boards.sethroberts.net/index.php?topic=115.msg1992#msg1992">patsi</a></p>
@@ -159,7 +159,7 @@
           <!--   End Section Four   -->
         </div>
         <div class="clear"></div>
-        <p>The <a href="http://boards.sethroberts.net">forums</a> contain helpful information about the diet. <a href="http://repositories.cdlib.org/postprints/117/">This</a> is about the self-experimentation behind the diet.</p>
+        <p>The <a href="http://boards.sethroberts.net/">forums</a> contain helpful information about the diet. <a href="http://repositories.cdlib.org/postprints/117/">This</a> is about the self-experimentation behind the diet.</p>
         <p><a href="http://media.sethroberts.net/archives/2006_missing_pages_from_eng_sld.pdf">Pages</a> missing from the English export edition.</p>
         <p>
           <a href="/images/sblBook_paper_full.jpg">Full cover of the paperback.</a>
