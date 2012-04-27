@@ -31,7 +31,6 @@ Redirect 301 /subscribe/emailconfirm.html /subscribe/emailconfirm/
 	RewriteRule ^(([^/]+/)*)index\.(html|php)$ http://sethroberts.net/$1 [R=301,L]
 
 	# add trialing slash to directories
-	RewriteCond %{REQUEST_FILENAME} !-f
 	RewriteCond %{REQUEST_FILENAME} -d
 	RewriteCond %{REQUEST_URI} !(.*)/$
 	RewriteRule ^(.*)$ http://sethroberts.net/$1/ [R=301,L]
