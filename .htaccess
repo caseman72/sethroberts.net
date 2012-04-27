@@ -10,12 +10,14 @@ DirectoryIndex index.php
 #	deny from all
 #</Files>
 
-<Directory "/" >
-	Options Indexes Includes FollowSymLinks MultiViews
-	AllowOverride AuthConfig
-	Order allow,deny
-	Allow from all
-</Directory>
+# Turn off mod_dir generated directory listings.
+Options -Indexes
+
+# Turn off mod_dir generated trailing slash redirects.
+DirectorySlash Off
+
+# Default index files. NOTE: Does not work for /. See below.
+DirectoryIndex index.html index.php
 
 # moved these files
 Redirect 301 /archives/forumquotes.html /archives/
