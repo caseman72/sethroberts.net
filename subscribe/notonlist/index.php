@@ -41,11 +41,6 @@
         <br/>
         <br/>
         <br/>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
         <div class="clear"></div>
       </div>
       <div id="footer">
@@ -68,9 +63,6 @@
         </li>
         <li id="science">
           <a href="/science/">Science Behind<br/>the Diet</a>
-        </li>
-        <li id="selfexp">
-          <a href="/self-experiment/">Self-Experimentation</a>
         </li>
         <li id="about">
           <a class="here" href="/about/">About the Author</a>

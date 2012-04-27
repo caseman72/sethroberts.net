@@ -102,9 +102,6 @@
         <li id="science">
           <a href="/science/">Science Behind<br/>the Diet</a>
         </li>
-        <li id="selfexp">
-          <a href="/self-experiment/">Self-Experimentation</a>
-        </li>
         <li id="about">
           <a href="/about/">About the Author</a>
         </li>
