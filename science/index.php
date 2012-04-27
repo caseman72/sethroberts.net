@@ -39,7 +39,7 @@
         <p> unpublished Roberts. S. <a href="http://sethroberts.net/about/whatmakesfoodfattening.pdf">What makes food fattening? A Pavlovian theory of weight control</a>.</p>
 
         <h2>The Self-Experimentation that Led to the Diet</h2>
-        <p> 2004 Roberts, S. <a href="http://repositories.cdlib.org/postprints/117/">Self-experimentation as a source of new ideas: Examples about sleep, mood, health, and weight</a>. <em>Behavioral and Brain Sciences</em>, vol. 27, pp. 227-262. <a href="/science/info_about_replications.pdf">replications</a>. </p>
+        <p> 2004 Roberts, S. <a href="http://repositories.cdlib.org/postprints/117/">Self-experimentation as a source of new ideas: Examples about sleep, mood, health, and weight</a>. <em>Behavioral and Brain Sciences</em>, vol. 27, pp. 227-262. <a href="http://media.sethroberts.net/science/info_about_replications.pdf">replications</a>. </p>
         <div class="totop"><a href="#top">top</a></div>
 
         <h2>Underlying Research: Michel Cabanac</h2>

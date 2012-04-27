@@ -46,26 +46,26 @@
           <img src="/images/michael_before.jpg" alt="Michael, before the diet" width="190" height="260"/>
           <img src="/images/michael_after.jpg" alt="Michael, after the diet" width="190" height="260"/>
         </p>
-        <p>When Michael was forty-eight, he weighed 254 pounds. He is six feet tall. He had been heavy since grade school. Quite apart from health issues - his knees hurt, for example - his weight was a problem because it caused people to treat him poorly. . . . <a href="/stories/2006-04-30_Michael.pdf">continues</a> <em>&#x2014; Michael, undisclosed location </em> </p>
+        <p>When Michael was forty-eight, he weighed 254 pounds. He is six feet tall. He had been heavy since grade school. Quite apart from health issues - his knees hurt, for example - his weight was a problem because it caused people to treat him poorly. . . . <a href="http://media.sethroberts.net/stories/2006-04-30_Michael.pdf">continues</a> <em>&#x2014; Michael, undisclosed location </em> </p>
 
         <h2>Lily M.</h2>
-        <p>&#x201C;I started the Shangri-La diet the same day I read the Freakonomics column about it in the New York Times Magazine.  I swallowed a spoonful of canola oil, and my appetite disappeared almost immediately. . . .&#x201D; <a href="/stories/2006-05-06_Lily.pdf">continues</a> <em>&#x2014;  Lily M., Los Angeles, California </em></p>
+        <p>&#x201C;I started the Shangri-La diet the same day I read the Freakonomics column about it in the New York Times Magazine.  I swallowed a spoonful of canola oil, and my appetite disappeared almost immediately. . . .&#x201D; <a href="http://media.sethroberts.net/stories/2006-05-06_Lily.pdf">continues</a> <em>&#x2014;  Lily M., Los Angeles, California </em></p>
 
         <h2>Sarah</h2>
-        <p>Sarah's problem with her weight began when she was young. "When I was nine, I weighed 109," she said. Growing up, she always weighed more than she wanted to.  In her forties, she tried Weight Watchers, which worked for a while. . . . <a href="/stories/2006-04-30_Sarah.pdf">continues</a> <em>&#x2014; Sarah, Bay Area, California</em></p>
+        <p>Sarah's problem with her weight began when she was young. "When I was nine, I weighed 109," she said. Growing up, she always weighed more than she wanted to.  In her forties, she tried Weight Watchers, which worked for a while. . . . <a href="http://media.sethroberts.net/stories/2006-04-30_Sarah.pdf">continues</a> <em>&#x2014; Sarah, Bay Area, California</em></p>
 
         <h2>Sean</h2>
-        <p>&#x201C;I started at 184 lbs (I'm 6 foot 1 inch) and, using Seth Roberts's "Shangri-La" approach, lost 11% of my body weight (20.5 lbs or about 1.4 lbs per week) over 15 weeks . . .&#x201D; <a href="/stories/2006-04-30_Sean.pdf">continues</a> <em>&#x2014; Sean, Highland Ranch, Colorado</em></p>
+        <p>&#x201C;I started at 184 lbs (I'm 6 foot 1 inch) and, using Seth Roberts's "Shangri-La" approach, lost 11% of my body weight (20.5 lbs or about 1.4 lbs per week) over 15 weeks . . .&#x201D; <a href="http://media.sethroberts.net/stories/2006-04-30_Sean.pdf">continues</a> <em>&#x2014; Sean, Highland Ranch, Colorado</em></p>
 
         <h2>Stephen G.</h2>
-        <p>When Stephen started the Shangri-La Diet, he weighed 203 pounds.  His body mass index (BMI) was 29, which is considered overweight. The diet was worth a try, he thought. . . . <a href="/stories/2006-04-30_StephenG.pdf">continues</a> <em>&#x2014; Stephen G., Bay Area, California</em>  </p>
+        <p>When Stephen started the Shangri-La Diet, he weighed 203 pounds.  His body mass index (BMI) was 29, which is considered overweight. The diet was worth a try, he thought. . . . <a href="http://media.sethroberts.net/stories/2006-04-30_StephenG.pdf">continues</a> <em>&#x2014; Stephen G., Bay Area, California</em>  </p>
 
         <h2>Stephen M.</h2>
         <p>
           <img src="/images/stephenm_before.jpg" alt="Stephen M. Before SLD" width="190" height="207"/>
           <img src="/images/stephenm_midway2.jpg" alt="Stephen M. While on SLD" width="190" height="207"/>
         </p>
-        <p>&#x201C;In 1992 my world fell apart. My eldest child became sick. In the next five years I would bury three children and gain almost sixty pounds. By the time the world was stable under my feet again, I was about 240 pounds and unable to lose weight . . .&#x201D; <a href="/stories/2006-04-30_StephenM.pdf">continues</a> - <em>Stephen Marsh, a lawyer in Texas, who blogs at <a href="http://ethesis.blogspot.com/">http://ethesis.blogspot.com/</a></em></p>
+        <p>&#x201C;In 1992 my world fell apart. My eldest child became sick. In the next five years I would bury three children and gain almost sixty pounds. By the time the world was stable under my feet again, I was about 240 pounds and unable to lose weight . . .&#x201D; <a href="http://media.sethroberts.net/stories/2006-04-30_StephenM.pdf">continues</a> - <em>Stephen Marsh, a lawyer in Texas, who blogs at <a href="http://ethesis.blogspot.com/">http://ethesis.blogspot.com/</a></em></p>
         <p>
           <img src="/images/stephenm_progress.png" alt="Stephen M's Progress" width="435" height="226"/>
         </p>

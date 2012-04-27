@@ -37,15 +37,15 @@
           <div id="secOneLeft">
             <h1 class="larger"><em>New York Times</em><a href="/images/2006-05-21_nyt_bestseller.pdf">Bestseller</a>Now in Paperback</h1>
             <div id="hpBookJacket">
-              <a href="http://www.amazon.com/Shangri-Diet-Hunger-Anything-Weight-Loss/dp/0399533168/ref=ed_oe_p/002-0885004-4236054"><img src="images/sblBook_paper_front.jpg" alt="The Shangri-La Diet" width="180" height="320" border="0"/></a>
+              <a href="http://www.amazon.com/Shangri-Diet-Hunger-Anything-Weight-Loss/dp/0399533168/ref=ed_oe_p/002-0885004-4236054"><img src="/images/sblBook_paper_front.jpg" alt="The Shangri-La Diet" width="180" height="320" border="0"/></a>
             </div>
             <br/>
             <p><span class="littleLarger">"A weight-loss theory that just might benefit a few million people." </span> &#x2014; <em> Stephen Dubner, co- author of </em> <a href="http://www.freakonomics.com">Freakonomics</a></p>
-            <p><span class="littleLarger">"In fact, it might benefit a few billion." </span> &#x2014; <em> Dennis Prager</em>, <a href="/reviews/dennispragermay3interview.mp3">The Dennis Prager Show interview with Seth Roberts</a> (35 minutes).</p>
+            <p><span class="littleLarger">"In fact, it might benefit a few billion." </span> &#x2014; <em> Dennis Prager</em>, <a href="http://media.sethroberts.net/reviews/dennispragermay3interview.mp3">The Dennis Prager Show interview with Seth Roberts</a> (35 minutes).</p>
             <p><span class="littleLarger">"You actively feel like not eating. . . It's a kind of not hungry that you've never felt before"</span><em>&#x2014; Joyce Cohen,</em> NY Times <em><a href="http://query.nytimes.com/search/query?ppds=bylL&amp;v1=JOYCE COHEN&amp;fdq=19960101&amp;td=sysdate&amp;sort=newest&amp;ac=JOYCE COHEN&amp;inline=nyt-per&quot;&gt;">columnist</a> and <a href="http://huntgrunt.blogspot.com/2006/04/diet-to-end-all-diets.html">blogger</a></em>.</p>
             <p><span class="littleLarger">"It's been two weeks since I started <em>and oh-my-god</em> . . . Within three days I was actually forgetting to eat."</span><em>&#x2014; Kathy Sierra, co-author of</em> Head First Java<em> and <a href="http://headrush.typepad.com/creating_passionate_users/2006/05/the_strangest_e.html">blogger</a></em>.</p>
             <p><span class="littleLarger">"It has been a very positive experience and weight loss is only one of the benefits"</span> &#x2014; <a href="http://foodchronicles.blogspot.com/2006/06/so-hows-that-shangri-la-thing.html"><em>Food Chronicler</em></a>.</p>
-            <p>The <a href="/reviews/2006-10-03_Womans_World.pdf">Woman's World article</a> ("Instant Willpower!")</p>
+            <p>The <a href="http://media.sethroberts.net/reviews/2006-10-03_Womans_World.pdf">Woman's World article</a> ("Instant Willpower!")</p>
             <p>Watch a CBC <a href="http://www.youtube.com/watch?v=hR33LNwgGIc">mini-documentary</a> (9 minutes) about the diet.</p>
           </div>
         </div>
@@ -63,7 +63,7 @@
         </div>
         <!--   Section Three   -->
         <div id="quoteBox1">
-          <h2><a href="http://boards.sethroberts.net"><img src="images/hotForumsHeader.png" alt="Hot of the Forums" width="400" height="33" border="0"/></a></h2>
+          <h2><a href="http://boards.sethroberts.net"><img src="/images/hotForumsHeader.png" alt="Hot of the Forums" width="400" height="33" border="0"/></a></h2>
           <!--   Begin Quotes   -->
           <p>&#x201C;I am seeing some results -- I am feeling fuller with smaller portions and my sweet tooth seems to have lost its fangs.  Example: It is normal for me to eat one of those 2-portion bags of M&amp;M's in one sitting, but on Friday at the movies, I only ate half.  And, weirder still, I still have possession of the bag and <em>there are still M&amp;M's in there</em>.&#x201D; &#x2014; <a href="http://boards.sethroberts.net/index.php?topic=988.msg7351#msg7351 ">melissacb</a></p>
           <p>&#x201C;The  loss of appetite is wonderful so I quit when I am full -- so yes I have changed my eating habits. This morning I woke up no appetite. I used to be a big breakfast eater so scrambled a couple of eggs could only eat one so shared them with my dog. 'The dog is loving my loss of appetite too.' I also am drinking a lot more water. I used to choke it down; now it is my drink of choice. I think for me snacking was my demon -- after lunch within 15 minutes I would be hungry again and would eat from that time on until after dinner and I am not tempted anymore.&#x201D; &#x2014; <a href="http://boards.sethroberts.net/index.php?topic=115.msg1992#msg1992">patsi</a></p>
@@ -139,18 +139,18 @@
                 <legend>&#x2022; Radio KSLD &#x2022; </legend>
                 <ul>
                   <li>2007 (May 2) Alan, D. <a href="http://www.mypodcast.com/fsaudio/davealan_20070502_1928-21942.mp3">Shangri-La Diet ~Seth Roberts~</a>. <em>Dave Alan the Nighthawk</em>. 52 minutes.</li>
-                  <li>2007 (March 3) Punnett, I. <a href="/reviews/2007-03-03_Coast_to_Coast_Live_1_Hour.mp3">Seth Roberts</a>. <em>Coast to Coast AM</em>. 60 minutes.</li>
+                  <li>2007 (March 3) Punnett, I. <a href="http://media.sethroberts.net/reviews/2007-03-03_Coast_to_Coast_Live_1_Hour.mp3">Seth Roberts</a>. <em>Coast to Coast AM</em>. 60 minutes.</li>
                   <li>2006 (December 6) Pascal, M., &amp; Schott, F. <a href="http://www.restaurantguysradio.com/sle/rg/bin/aud/2006.12.06.01.roberts.mp3">Seth Roberts</a>. <em>The Restaurant Guys</em>. 41 minutes.</li>
                   <li>2006 (December 3) Pendleton, P. <a href="http://theisleoflight.com/TalkShows/SethRoberts.mp3">A Simple, Healthy &amp; Peaceful Way to Lose Weight Eating What You Want</a> <em>The Isle Of Light</em>. 60 minutes.</li>
                   <li>2006 (October 9) Shafran, A. <a href="http://weightlossradio.libsyn.com/index.php?post_id=138771">Seth Roberts' Shangri-La Diet is so easy the Fat Guy can do it.</a> <em>Dr. Fitness and the Fat Guy Podcast</em>. 56 minutes.</li>
-                  <li>2006 (August 7) Muelrath, L. <a href="/reviews/fitnessdreammaker.mp3">Teleconference with Seth Roberts</a>. <em>Fitness Dreammaker</em>. 91 minutes.</li>
-                  <li>2006 (July 19) Roberts, S. Interview for the <a href="http://www.amazon.com/Shangri-Diet-Hunger-Anything-Weight-Loss/dp/140010257X/ref=ase_sethrobertand-20/102-8713461-6299310?s=books&amp;v=glance&amp;n=283155&amp;tagActionCode=sethrobertand-20=UTF8">audiobook</a>. <em>Tantor Media</em>. (11 minutes) In 2 parts: <a href="/reviews/049-ShangriLa_audio_interview.mp3">Part 1</a> (6 minutes) <a href="/reviews/050-ShangriLa_audio_interview.mp3">Part 2</a> (5 minutes).</li>
-                  <li>2006 (June 22) Crump, B. <a href="/archives/nightsonnatradio.mp3">Interview with Seth Roberts</a>. <em>Nights on National Radio</em> (Radio New Zealand). 20 minutes.</li>
+                  <li>2006 (August 7) Muelrath, L. <a href="http://media.sethroberts.net/reviews/fitnessdreammaker.mp3">Teleconference with Seth Roberts</a>. <em>Fitness Dreammaker</em>. 91 minutes.</li>
+                  <li>2006 (July 19) Roberts, S. Interview for the <a href="http://www.amazon.com/Shangri-Diet-Hunger-Anything-Weight-Loss/dp/140010257X/ref=ase_sethrobertand-20/102-8713461-6299310?s=books&amp;v=glance&amp;n=283155&amp;tagActionCode=sethrobertand-20=UTF8">audiobook</a>. <em>Tantor Media</em>. (11 minutes) In 2 parts: <a href="http://media.sethroberts.net/reviews/049-ShangriLa_audio_interview.mp3">Part 1</a> (6 minutes) <a href="http://media.sethroberts.net/reviews/050-ShangriLa_audio_interview.mp3">Part 2</a> (5 minutes).</li>
+                  <li>2006 (June 22) Crump, B. <a href="http://media.sethroberts.net/archives/nightsonnatradio.mp3">Interview with Seth Roberts</a>. <em>Nights on National Radio</em> (Radio New Zealand). 20 minutes.</li>
                   <li>2006 (June 13) Jones, A. <a href="http://www.dralvinjones.com/detailmedia.php?id=789">The Shangri-La Diet</a>. <em>Dr. Alvin Augustus Jones</em>. 12 minutes.</li>
                   <li>2006 (May 26) Dolom, I. <a href="http://www.dailysonic.com/segment1597">The Shangri-La Diet and the crazy scientist behind it</a>. <em>Dailysonic</em>. 11 minutes. <span class="recom">Recommended</span></li>
                   <li>2006 (May 18) Feria, W. <a href="http://www.msnbc.msn.com/id/12858720/">The Shangri-La Diet: Stone Age tricks for losing weight</a>. <em>MSNBC</em>. 24 minutes.</li>
                   <li>2006 (May 17) Reynolds, G., &amp; Smith, H. <a href="http://instapundit.com/archives/030366.php">The Glenn and Helen Show: Interview with Seth Roberts</a>. <em>Instapundit.com</em>. 26 minutes. </li>
-                  <li>2006 (May 3) Prager, D. <a href="/reviews/dennispragermay3interview.mp3">Interview with Seth Roberts</a>. <em>The Dennis Prager Show</em>. 35 minutes. <span class="recom">Recommended</span> </li>
+                  <li>2006 (May 3) Prager, D. <a href="http://media.sethroberts.net/reviews/dennispragermay3interview.mp3">Interview with Seth Roberts</a>. <em>The Dennis Prager Show</em>. 35 minutes. <span class="recom">Recommended</span> </li>
                 </ul>
               </fieldset>
             </div>
@@ -159,7 +159,7 @@
         </div>
         <div class="clear"></div>
         <p>The <a href="http://boards.sethroberts.net">forums</a> contain helpful information about the diet. <a href="http://repositories.cdlib.org/postprints/117/">This</a> is about the self-experimentation behind the diet.</p>
-        <p><a href="/archives/2006_missing_pages_from_eng_sld.pdf">Pages</a> missing from the English export edition.</p>
+        <p><a href="http://media.sethroberts.net/archives/2006_missing_pages_from_eng_sld.pdf">Pages</a> missing from the English export edition.</p>
         <p>
           <a href="/images/sblBook_paper_full.jpg">Full cover of the paperback.</a>
         </p>

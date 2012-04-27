@@ -37,14 +37,14 @@
 
         <h2>Articles</h2>
         <ul>
-          <li>1995 (May/June) Roberts, S. <a href="/spy/whatareyouacomedian.pdf">What are you, a comedian?</a> <em>Spy</em>, p. 20.</li>
-          <li>1990 (June) Roberts, S. <a href="http://www.virusmyth.net/aids/data/srlabrat.htm">Lab rat: What AIDS researcher Dr. Robert Gallo did in pursuit of the Nobel Prize, and what he didn't do in pursuit of a cure for AIDS</a>. <em>Spy</em>, pp. 70-79. <a href="/spy/Gallo_sidebar1.pdf">sidebar 1</a>, <a href="/spy/Gallo_sidebar2.pdf">sidebar 2</a>, <a href="/spy/Lab_Rat_color.pdf">color pdf </a>(25 Mb), &amp; <a href="/spy/Lab_Rat_bw.pdf">black &amp; white pdf</a> (1 Mb).</li>
-          <li>1990 (Feb) Roberts, S. <a href="/spy/onlytheslightlyimperfect.pdf">Only the slightly imperfect need apply</a>. <em>Spy</em>, p. 40.</li>
-          <li>1989 (Dec) Roberts, S. <a href="/spy/howtogetpublished.pdf">How to get published in <em>The New Yorker</em></a>. <em>Spy</em>, p. 48.</li>
-          <li>1989 (Sept) Beatty, B., Roberts, S., and Mastrianni, J. <a href="/spy/wherestheletshavelunch.pdf">Where's the LET'S HAVE LUNCH key?</a>. <em>Spy</em>, p. 66.</li>
-          <li>1989 (May) Roberts, S. <a href="/spy/lettertotheeditormay89.pdf">Letters to the editor of <em>The New Yorker</em> </a>. <em>Spy</em>, p. 54.</li>
-          <li>1989 (Feb) Roberts, S. <a href="/spy/ifthereisonething.pdf">"If there's one thing Ellsworth hates, it's talking-dog-on-desert-island cartoons."</a> <em>Spy</em>, p. 34.</li>
-          <li>1988 (Dec) Roberts, S. <a href="/spy/lettertotheeditordec88.pdf">Letters to the editor of <em>The New Yorker</em> </a>. <em>Spy</em>, p. 54.</li>
+          <li>1995 (May/June) Roberts, S. <a href="http://media.sethroberts.net/spy/whatareyouacomedian.pdf">What are you, a comedian?</a> <em>Spy</em>, p. 20.</li>
+          <li>1990 (June) Roberts, S. <a href="http://www.virusmyth.net/aids/data/srlabrat.htm">Lab rat: What AIDS researcher Dr. Robert Gallo did in pursuit of the Nobel Prize, and what he didn't do in pursuit of a cure for AIDS</a>. <em>Spy</em>, pp. 70-79. <a href="http://media.sethroberts.net/spy/Gallo_sidebar1.pdf">sidebar 1</a>, <a href="http://media.sethroberts.net/spy/Gallo_sidebar2.pdf">sidebar 2</a>, <a href="http://media.sethroberts.net/spy/Lab_Rat_color.pdf">color pdf </a>(25 Mb), &amp; <a href="http://media.sethroberts.net/spy/Lab_Rat_bw.pdf">black &amp; white pdf</a> (1 Mb).</li>
+          <li>1990 (Feb) Roberts, S. <a href="http://media.sethroberts.net/spy/onlytheslightlyimperfect.pdf">Only the slightly imperfect need apply</a>. <em>Spy</em>, p. 40.</li>
+          <li>1989 (Dec) Roberts, S. <a href="http://media.sethroberts.net/spy/howtogetpublished.pdf">How to get published in <em>The New Yorker</em></a>. <em>Spy</em>, p. 48.</li>
+          <li>1989 (Sept) Beatty, B., Roberts, S., and Mastrianni, J. <a href="http://media.sethroberts.net/spy/wherestheletshavelunch.pdf">Where's the LET'S HAVE LUNCH key?</a>. <em>Spy</em>, p. 66.</li>
+          <li>1989 (May) Roberts, S. <a href="http://media.sethroberts.net/spy/lettertotheeditormay89.pdf">Letters to the editor of <em>The New Yorker</em> </a>. <em>Spy</em>, p. 54.</li>
+          <li>1989 (Feb) Roberts, S. <a href="http://media.sethroberts.net/spy/ifthereisonething.pdf">"If there's one thing Ellsworth hates, it's talking-dog-on-desert-island cartoons."</a> <em>Spy</em>, p. 34.</li>
+          <li>1988 (Dec) Roberts, S. <a href="http://media.sethroberts.net/spy/lettertotheeditordec88.pdf">Letters to the editor of <em>The New Yorker</em> </a>. <em>Spy</em>, p. 54.</li>
         </ul>
         <div class="totop"><a href="#top">top</a></div>
 

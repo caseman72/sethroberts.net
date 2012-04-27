@@ -40,15 +40,15 @@
           <p>Right-click to save the image to your desktop.</p>
         </div>
         <p>
-          <a href="/"><img src="/ad/shangriladiet_ad.gif" alt="The Shangri-La Diet Ad" width="177" height="460" border="0"/></a>
+          <a href="/"><img src="http://media.sethroberts.net/ad/shangriladiet_ad.gif" alt="The Shangri-La Diet Ad" width="177" height="460" border="0"/></a>
         </p>
         <br clear="all"/>
         <h2>Electronic postcard</h2>
         <p>Penguin has created this electronic postcard describing SLD. Please email it to friends, and/or post it on another site. Thanks for helping us spread the word about the diet.</p>
         <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="550" height="400" title="The Shangri-La Diet">
-          <param name="movie" value="/ad/shangri-la-flash.swf"/>
+          <param name="movie" value="http://media.sethroberts.net/ad/shangri-la-flash.swf"/>
           <param name="quality" value="high"/>
-          <embed src="/ad/shangri-la-flash.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="550" height="400"/>
+          <embed src="http://media.sethroberts.net/ad/shangri-la-flash.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="550" height="400"/>
         </object>
         <div class="clear"></div>
       </div>
