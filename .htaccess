@@ -2,7 +2,7 @@ ErrorDocument 404 /404.php
 DirectoryIndex index.php
 
 # Prevent directory listings
-# Options All -Indexes
+Options All -Indexes
 
 <Files .htaccess>
 	order allow,deny
@@ -32,6 +32,7 @@ DirectoryIndex index.php
 
 	# add trialing slash to directories
 	RewriteCond %{REQUEST_FILENAME} !-f
+	RewriteCond %{REQUEST_FILENAME} -d
 	RewriteCond %{REQUEST_URI} !(.*)/$
 	RewriteRule ^(.*)$ http://sethroberts.net/$1/ [R=301,L]
 
