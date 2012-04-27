@@ -36,7 +36,7 @@
         <p><em>Why isn't this a fad diet?</em> Because it is based on a better understanding of how our weight-control system works than previous popular diets. My scientific work on this had two parts: I came up with a new theory of weight control; and I used self-experimentation to test my theory (a fancy way of saying self-experimentation led me to believe my theory) and apply it. My theory was heavily based on the experiments and concepts of others, some of which are listed below. <em>The Shangri-La Diet</em> has a chapter about the theory ("A New Theory of Weight Control"), a chapter about the self-experimentation ("The Case of the Missing Appetite"), and an appendix about other scientists' work ("The Science Behind the Theory Behind the Diet").</p>
 
         <h2>The Theory that Led to the Diet</h2>
-        <p> unpublished Roberts. S. <a href="http://sethroberts.net/about/whatmakesfoodfattening.pdf">What makes food fattening? A Pavlovian theory of weight control</a>.</p>
+        <p> unpublished Roberts. S. <a href="http://media.sethroberts.net/about/whatmakesfoodfattening.pdf">What makes food fattening? A Pavlovian theory of weight control</a>.</p>
 
         <h2>The Self-Experimentation that Led to the Diet</h2>
         <p> 2004 Roberts, S. <a href="http://repositories.cdlib.org/postprints/117/">Self-experimentation as a source of new ideas: Examples about sleep, mood, health, and weight</a>. <em>Behavioral and Brain Sciences</em>, vol. 27, pp. 227-262. <a href="http://media.sethroberts.net/science/info_about_replications.pdf">replications</a>. </p>
