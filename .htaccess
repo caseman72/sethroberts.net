@@ -9,18 +9,18 @@ Options All -Indexes
 	deny from all
 </Files>
 
+# moved these files
+Redirect 301 /archives/forumquotes.html /archives/
+Redirect 301 /subscribe/subscribed.html /subscribe/subscribed/
+Redirect 301 /subscribe/unsubscribed.html /subscribe/unsubscribed/
+Redirect 301 /subscribe/alreadyonlist.html /subscribe/alreadyonlist/
+Redirect 301 /subscribe/notonlist.html /subscribe/notonlist/
+Redirect 301 /subscribe/emailconfirm.html /subscribe/emailconfirm/
+
 <IfModule mod_rewrite.c>
 	RewriteEngine On
 
 	RewriteBase /
-
-	# moved these files
-	Redirect 301 /archives/forumquotes.html /archives/
-	Redirect 301 /subscribe/subscribed.html /subscribe/subscribed/
-	Redirect 301 /subscribe/unsubscribed.html /subscribe/unsubscribed/
-	Redirect 301 /subscribe/alreadyonlist.html /subscribe/alreadyonlist/
-	Redirect 301 /subscribe/notonlist.html /subscribe/notonlist/
-	Redirect 301 /subscribe/emailconfirm.html /subscribe/emailconfirm/
 
 	# no www
 	RewriteCond %{HTTP_HOST} ^www\. [NC]
