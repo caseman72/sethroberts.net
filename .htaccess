@@ -30,15 +30,15 @@ Redirect 301 /subscribe/emailconfirm.html /subscribe/emailconfirm/
 	RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /([^/]+/)*index\.(html|php)\ HTTP/
 	RewriteRule ^(([^/]+/)*)index\.(html|php)$ http://sethroberts.net/$1 [R=301,L]
 
-	# add trialing slash to directories
-	RewriteCond %{REQUEST_FILENAME} -d
-	RewriteCond %{REQUEST_URI} !(.*)/$
-	RewriteRule ^(.*)$ http://sethroberts.net/$1/ [R=301,L]
-
 	# media 
 	RewriteCond %{REQUEST_FILENAME} !-d
 	RewriteCond %{REQUEST_FILENAME} !-f
 	RewriteCond %{REQUEST_URI} !^/images/
 	RewriteCond %{REQUEST_URI} \.(RData|doc|eml|gif|jpg|mp3|pdf|ppt|swf)$ [NC]
 	RewriteRule ^(.*)$ http://media.sethroberts.net/$1/ [R=301,L]
+
+	# add trialing slash to directories
+	RewriteCond %{REQUEST_FILENAME} -d
+	RewriteCond %{REQUEST_URI} !(.*)/$
+	RewriteRule ^(.*)$ http://sethroberts.net/$1/ [R=301,L]
 </IfModule>
