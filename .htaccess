@@ -10,7 +10,7 @@ DirectoryIndex index.php
 #	deny from all
 #</Files>
 
-<Directory />
+<Directory "/" >
 	Options Indexes Includes FollowSymLinks MultiViews
 	AllowOverride AuthConfig
 	Order allow,deny
