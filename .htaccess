@@ -11,13 +11,13 @@ DirectoryIndex index.php
 #</Files>
 
 # Turn off mod_dir generated directory listings.
-Options -Indexes
+Options -Indexes +FollowSymLinks
 
 # Turn off mod_dir generated trailing slash redirects.
 DirectorySlash Off
 
 # Default index files. NOTE: Does not work for /. See below.
-DirectoryIndex index.html index.php
+DirectoryIndex index.php
 
 # moved these files
 Redirect 301 /archives/forumquotes.html /archives/
@@ -36,9 +36,9 @@ Redirect 301 /subscribe/emailconfirm.html /subscribe/emailconfirm/
 	RewriteCond %{HTTP_HOST} ^www\. [NC]
 	RewriteRule ^(.*)$ http://sethroberts.net/$1 [R=301,L]
 
-	# always move up from index.php
-	RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /([^/]+/)*index\.(html|php)\ HTTP/
-	RewriteRule ^(([^/]+/)*)index\.(html|php)$ http://sethroberts.net/$1 [R=301,L]
+#	# always move up from index.php
+#	RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /([^/]+/)*index\.(html|php)\ HTTP/
+#	RewriteRule ^(([^/]+/)*)index\.(html|php)$ http://sethroberts.net/$1 [R=301,L]
 
 	# add trialing slash to directories
 	RewriteCond %{REQUEST_FILENAME} -d
