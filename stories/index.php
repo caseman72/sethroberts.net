@@ -7,7 +7,7 @@
   <link href="/css/styling.css" rel="stylesheet" type="text/css"/>
   <link rel="shortcut icon" href="/favicon.ico"/>
 </head>
-<body id="homePage">
+<body id="stories">
   <a name="top" id="top"></a>
   <div id="contentWrap">
     <div id="col1">
