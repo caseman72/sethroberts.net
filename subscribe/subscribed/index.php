@@ -31,19 +31,9 @@
           </li>
         </ul>
       </div>
-      <div id="mainBody">
+      <div id="mainBody" style="height: 280px;">
         <h1>Subscribed!</h1>
         <p>You have been added to Seth Roberts' mailing list. To unsubscribe, go <a href="/subscribe/unsubscribe/">here</a>. </p>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
         <div class="clear"></div>
       </div>
       <div id="footer">

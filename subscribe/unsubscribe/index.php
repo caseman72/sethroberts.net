@@ -31,7 +31,7 @@
           </li>
         </ul>
       </div>
-      <div id="mainBody">
+      <div id="mainBody" style="height: 280px;">
         <h1>Unsubscribe from the List</h1>
         <p>Enter your email address and hit the button. Your address will automatically be deleted from the mailing list.</p>
         <br/>
@@ -46,14 +46,6 @@
             <fieldset>Email: <input name="address" /> <input type="submit" name="unsub" value="Unsubscribe" /></fieldset>
           </form>
         </div>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
         <div class="clear"></div>
       </div>
       <div id="footer">

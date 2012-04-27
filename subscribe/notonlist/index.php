@@ -31,16 +31,10 @@
           </li>
         </ul>
       </div>
-      <div id="mainBody">
+      <div id="mainBody" style="height: 280px;">
         <h1>Ooops</h1>
         <p>Your email address is not on the list. Perhaps you used a different email address? Or did you unsubscribe already but forgot?</p>
         <p>To find out which address you used, click reply on one of our emails and look at your return address. Then use that address to <a href="/subscribe/unsubscribe/">unsubscribe</a> again.</p>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
         <div class="clear"></div>
       </div>
       <div id="footer">

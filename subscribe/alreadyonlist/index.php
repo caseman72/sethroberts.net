@@ -31,21 +31,10 @@
           </li>
         </ul>
       </div>
-      <div id="mainBody">
+      <div id="mainBody" style="height: 280px;">
         <h1>Ooops</h1>
         <p>Your email address is already on the list.</p>
         <p>If you want to try again, go back to the <a href="/subscribe/">subscription page</a>.</p>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
         <div class="clear"></div>
       </div>
       <div id="footer">

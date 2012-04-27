@@ -31,18 +31,10 @@
           </li>
         </ul>
       </div>
-      <div id="mainBody">
+      <div id="mainBody" style="height: 280px;">
         <h1>Unsubscription Completed</h1>
         <p>You are successfully unsubscribed from Seth Roberts' mailing list.</p>
         <p>Thank you for being with us.</p>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
         <div class="clear"></div>
       </div>
       <div id="footer">

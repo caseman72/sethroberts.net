@@ -31,7 +31,7 @@
           </li>
         </ul>
       </div>
-      <div id="mainBody">
+      <div id="mainBody" style="height: 280px;">
         <h1>Subscribe</h1>
         <p>Sign up to receive announcements related to this site, such as author appearances and new content.  Your address will not be used for any other purpose.</p>
         <br/>
@@ -52,12 +52,6 @@
             To unsubscribe, go <a href="/subscribe/unsubscribe/">here</a>.
           </p>
         </div>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
         <div class="clear"></div>
       </div>
       <div id="footer">
