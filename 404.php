@@ -31,15 +31,10 @@
           </li>
         </ul>
       </div>
-      <div id="mainBody">
+      <div id="mainBody" style="height: 280px;">
         <h1>Page Not Found</h1><br/>
-        The page you are looking for is not here. Please check one of the links above. If this is a broken link, please contact Seth at 
+        The page you are looking for is not here. Please check one of the links above. If this is a broken link, please contact Seth Roberts at
         <a href="mailto:twoutopias@gmail.com">twoutopias@gmail.com</a>.<br/>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
       </div>
       <div class="mainImage">
         <img src="http://sethroberts.net/images/scales.jpg" alt="Seth's scales" width="500" height="172"/>
@@ -49,6 +44,32 @@
       </div>
     </div>
     <div id="col3">
+      <ul>
+        <li id="success">
+          <a href="/stories/">Success Stories</a>
+        </li>
+        <li id="blogosphere">
+          <a href="/blogosphere/">Blogosphere</a>
+        </li>
+        <li id="reviews">
+          <a href="/reviews/">Reviews &amp; Media</a>
+        </li>
+        <li id="excerpts">
+          <a href="/excerpts/">Excerpts</a>
+        </li>
+        <li id="science">
+          <a href="/science/">Science Behind<br/>the Diet</a>
+        </li>
+        <li id="about">
+          <a href="/about/">About the Author</a>
+        </li>
+        <li id="contact">
+          <a href="/contact/">Contact</a>
+        </li>
+        <li id="home">
+          <a href="/">Home</a>
+        </li>
+      </ul>
     </div>
     <div class="clear"></div>
   </div>

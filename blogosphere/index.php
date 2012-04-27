@@ -21,10 +21,10 @@
       <div id="topNav">
         <ul>
           <li id="forums">
-            <a class="yo" href="http://boards.sethroberts.net">Forums</a>
+            <a class="yo" href="http://boards.sethroberts.net/">Forums</a>
           </li>
           <li id="blog">
-            <a class="yo" href="http://blog.sethroberts.net">Blog</a>
+            <a class="yo" href="http://blog.sethroberts.net/">Blog</a>
           </li>
           <li id="buy">
             <a class="yo" href="http://www.amazon.com/Shangri-Diet-Hunger-Anything-Weight-Loss/dp/0399533168/ref=ed_oe_p/002-0885004-4236054">Buy the Book</a>
@@ -51,7 +51,7 @@
           <li>2005 (April 5). Tabarrok, A. <a href="http://www.marginalrevolution.com/marginalrevolution/2005/04/seth_roberts_is.html">Seth Roberts is utterly mad (but in a good way)</a>. Marginal Revolution. Quite a pleasant surprise. Thanks again, Alex.</li>
           <li>2005 (March 16). Gelman, A. <a href="http://www.stat.columbia.edu/~cook/movabletype/archives/2005/03/learning_from_s.html">Learning from self-experimentation.</a> <em>Statistical Modeling, Causal Inference, and Social Science</em>. Post Zero. Andrew and I taught a seminar on left-handedness together. Thanks again, Andrew.</li>
         </ul>
-        <p>The <a href="http://boards.sethroberts.net">forums</a> contain a wealth of useful information about the diet. I hope you will post your questions, comments, experiences, and ideas.</p>
+        <p>The <a href="http://boards.sethroberts.net/">forums</a> contain a wealth of useful information about the diet. I hope you will post your questions, comments, experiences, and ideas.</p>
         <div class="totop">
           <a href="#top">top</a>
         </div>

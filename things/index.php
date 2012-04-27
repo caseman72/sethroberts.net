@@ -21,10 +21,10 @@
       <div id="topNav">
         <ul>
           <li id="forums">
-            <a class="yo" href="http://boards.sethroberts.net">Forums</a>
+            <a class="yo" href="http://boards.sethroberts.net/">Forums</a>
           </li>
           <li id="blog">
-            <a class="yo" href="http://blog.sethroberts.net">Blog</a>
+            <a class="yo" href="http://blog.sethroberts.net/">Blog</a>
           </li>
           <li id="buy">
             <a class="yo" href="http://www.amazon.com/Shangri-Diet-Hunger-Anything-Weight-Loss/dp/0399533168/ref=ed_oe_p/002-0885004-4236054">Buy the Book</a>
