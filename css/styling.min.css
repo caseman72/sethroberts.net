@@ -34,7 +34,7 @@ img,img a{border:0}
 #mainBody ul{margin-top:10px;margin-left:0}
 #mainBody li{margin-bottom:8px;margin-left:15px;list-style:square}
 #mainBody hr{margin-top:20px}
-#hpBookJacket{float:left;width:200px;height:320px;margin-right:0;margin-top:20px;margin-bottom:20px;position:relative}
+#hpBookJacket{float:left;width:200px;height:320px;margin-right:0;margin-top:25px;margin-bottom:20px;position:relative}
 .hpBookJacketcap{font-size:85%;text-align:center}
 #buyTag{font-size:150%;font-weight:bold;margin:3px auto 0;padding:3px 0;width:175px;text-align:center;text-transform:uppercase;border:2px solid #930}
 #buyTag a,#buyTag a:visited{color:#930;text-decoration:none}

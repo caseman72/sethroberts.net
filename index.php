@@ -4,7 +4,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
   <title>Seth Roberts and The Shangri-La Diet</title>
   <meta name="Description" content="Articles and related links about The Shangri-La Diet and other research by Seth Roberts."/>
-  <link href="/css/styling.min.css?1335633767" rel="stylesheet" type="text/css"/>
+  <link href="/css/styling.min.css?1335636664" rel="stylesheet" type="text/css"/>
   <link rel="shortcut icon" href="/favicon.ico"/>
   <script type="text/javascript" src="/js/jquery.min.js"></script>
 </head>
@@ -42,8 +42,11 @@
             </div>
             <br/>
             <p><span class="littleLarger">"A weight-loss theory that just might benefit a few million people." </span> &#x2014; <em> Stephen Dubner, co- author of </em> <a href="http://www.freakonomics.com">Freakonomics</a></p>
-            <p><span class="littleLarger">"In fact, it might benefit a few billion." </span> &#x2014; <em> Dennis Prager</em>, <a href="http://media.sethroberts.net/reviews/dennispragermay3interview.mp3">The Dennis Prager Show interview with Seth Roberts</a> (35 minutes).</p>
-            <p><span class="littleLarger">"You actively feel like not eating ... It's a kind of not hungry that you've never felt before"</span><em>&#x2014; Joyce Cohen,</em> NY Times <em><a href="http://query.nytimes.com/search/query?ppds=bylL&amp;v1=JOYCE COHEN&amp;fdq=19960101&amp;td=sysdate&amp;sort=newest&amp;ac=JOYCE COHEN&amp;inline=nyt-per&quot;&gt;">columnist</a> and <a href="http://huntgrunt.blogspot.com/2006/04/diet-to-end-all-diets.html">blogger</a></em>.</p>
+            <p>
+              <span class="littleLarger">"In fact, it might benefit a few billion." </span> &#x2014; <em> Dennis Prager</em>,
+              <span id="mp3_player"><a href="http://media.sethroberts.net/reviews/dennispragermay3interview.mp3">The Dennis Prager Show interview with Seth Roberts</a>.<span>
+            </p>
+            <p><span class="littleLarger">"You actively feel like not eating ... It's a kind of not hungry that you've never felt before"</span><em>&#x2014; Joyce Cohen,</em> NY Times <em><a href="http://query.nytimes.com/search/query?ppds=bylL&amp;v1=JOYCE COHEN&amp;fdq=19960101&amp;td=sysdate&amp;sort=newest&amp;ac=JOYCE COHEN&amp;inline=nyt-per&quot;&gt;">columnist</a></em>.</p>
             <p><span class="littleLarger">"It's been two weeks since I started <em>and oh-my-god</em> ... Within three days I was actually forgetting to eat."</span><em>&#x2014; Kathy Sierra, co-author of</em> Head First Java<em> and <a href="http://headrush.typepad.com/creating_passionate_users/2006/05/the_strangest_e.html">blogger</a></em>.</p>
             <p><span class="littleLarger">"It has been a very positive experience and weight loss is only one of the benefits"</span> &#x2014; <a href="http://foodchronicles.blogspot.com/2006/06/so-hows-that-shangri-la-thing.html"><em>Food Chronicler</em></a>.</p>
             <p>The <a href="http://media.sethroberts.net/reviews/2006-10-03_Womans_World.pdf">Woman's World article</a> ("Instant Willpower!")</p>
@@ -199,6 +202,7 @@
     </div>
     <div class="clear"></div>
   </div>
+<script type="text/javascript" src="/js/flash-detect.min.js"></script>
 <script type="text/javascript">
   $(document).ready(function(){
     var quotes = $("#quoteBox1").find("p").hide()
@@ -208,6 +212,13 @@
     for(var i=0; i<4; i++) {
       quotes.eq(index).show();
       if(++index > lastQ) index = 0;
+    }
+
+    if(window.FlashDetect && FlashDetect.installed) {
+      $("#mp3_player").html([
+        "<span>The Dennis Prager Show interview with Seth Roberts:</span>"
+        , '<embed type="application/x-shockwave-flash" flashvars="audioUrl=http://media.sethroberts.net/reviews/dennispragermay3interview.mp3" src="http://www.google.com/reader/ui/3523697345-audio-player.swf" width="360" height="27" quality="best"></embed>'
+      ].join(""));
     }
   });
 </script>
