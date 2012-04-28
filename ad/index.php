@@ -3,7 +3,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
   <title>Promote The Shangri-La Diet</title>
-  <meta name="Description" content="Articles and related links about The Shangri-La Diet and other research by Seth Roberts."/>
+  <meta name="Description" content="Promote The Shangri-La Diet"/>
   <link href="/css/styling.min.css" rel="stylesheet" type="text/css"/>
   <link rel="shortcut icon" href="/favicon.ico"/>
 </head>

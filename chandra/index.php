@@ -3,7 +3,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
   <title>Seth Roberts | The Strange Case of Ranjit Chandra</title>
-  <meta name="Description" content="Articles and related links about Ranjit Chandra"/>
+  <meta name="Description" content="Articles and related links about Ranjit Chandra. The Strange Case of Ranjit Chandra."/>
   <link href="/css/styling.min.css" rel="stylesheet" type="text/css"/>
   <link rel="shortcut icon" href="/favicon.ico"/>
 </head>
