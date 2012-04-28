@@ -42,8 +42,9 @@
         <p>After CalorieLab posted a long <a href="http://calorielab.com/news/2005/09/21/seth-roberts-shangri-la-diet-in-detail/">article</a> about the diet, comments poured in, many contradicting the article's skeptical tone with their own experience of success.</p>
 
         <h2>Michael</h2>
-        <p>
+        <p style="text-align:center;">
           <img src="/images/michael_before.jpg" alt="Michael, before the diet" width="190" height="260"/>
+          <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
           <img src="/images/michael_after.jpg" alt="Michael, after the diet" width="190" height="260"/>
         </p>
         <p>When Michael was forty-eight, he weighed 254 pounds. He is six feet tall. He had been heavy since grade school. Quite apart from health issues - his knees hurt, for example - his weight was a problem because it caused people to treat him poorly. . . . <a href="http://media.sethroberts.net/stories/2006-04-30_Michael.pdf">continues</a> <em>&#x2014; Michael, undisclosed location </em> </p>
@@ -61,12 +62,13 @@
         <p>When Stephen started the Shangri-La Diet, he weighed 203 pounds.  His body mass index (BMI) was 29, which is considered overweight. The diet was worth a try, he thought. . . . <a href="http://media.sethroberts.net/stories/2006-04-30_StephenG.pdf">continues</a> <em>&#x2014; Stephen G., Bay Area, California</em>  </p>
 
         <h2>Stephen M.</h2>
-        <p>
+        <p style="text-align:center;">
           <img src="/images/stephenm_before.jpg" alt="Stephen M. Before SLD" width="190" height="207"/>
+          <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
           <img src="/images/stephenm_midway2.jpg" alt="Stephen M. While on SLD" width="190" height="207"/>
         </p>
         <p>&#x201C;In 1992 my world fell apart. My eldest child became sick. In the next five years I would bury three children and gain almost sixty pounds. By the time the world was stable under my feet again, I was about 240 pounds and unable to lose weight . . .&#x201D; <a href="http://media.sethroberts.net/stories/2006-04-30_StephenM.pdf">continues</a> - <em>Stephen Marsh, a lawyer in Texas, who blogs at <a href="http://ethesis.blogspot.com/">http://ethesis.blogspot.com/</a></em></p>
-        <p>
+        <p style="text-align:center;">
           <img src="/images/stephenm_progress.png" alt="Stephen M's Progress" width="435" height="226"/>
         </p>
         <div class="caption">Stephen M's progress</div>

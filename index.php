@@ -36,7 +36,7 @@
         <!--   Section One   -->
         <div id="secOne">
           <div id="secOneLeft">
-            <h1 class="larger"><em>New York Times</em>&nbsp;<a href="/images/2006-05-21_nyt_bestseller.pdf">Bestseller</a>&nbsp;Now in Paperback</h1>
+            <h1 class="larger"><em>New York Times</em>&nbsp;<a href="http://www.amazon.com/Shangri-Diet-Hunger-Anything-Weight-Loss/dp/0399533168/ref=ed_oe_p/002-0885004-4236054">Bestseller</a>&nbsp;Now in Paperback</h1>
             <div id="hpBookJacket">
               <a href="http://www.amazon.com/Shangri-Diet-Hunger-Anything-Weight-Loss/dp/0399533168/ref=ed_oe_p/002-0885004-4236054"><img src="/images/sblBook_paper_front.jpg" alt="The Shangri-La Diet" width="180" height="320" border="0"/></a>
             </div>
