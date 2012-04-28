@@ -83,7 +83,7 @@
           <li>2005 (November 14) <a href="http://abcnews.go.com/GMA/BeautySecrets/story?id=1310260">Oil and water: Key to weight loss?</a> <em>ABC News</em> Original Report.</li>
           <li>2005 (September 11) Dubner, S., and Levitt, S. <a href="http://www.nytimes.com/2005/09/11/magazine/11FREAK.html?ei=5070&amp;en=885eba950a1a7544&amp;ex=1133154000&amp;pagewanted=all">Does the truth lie within?</a> <em>New York Times Magazine</em>. <a href="http://www.freakonomics.com/times0911.php">Related material</a> and letters: <a href="http://query.nytimes.com/gst/fullpage.html?res=9A00E4DB1530F931A35753C1A9639C8B63">1</a> <a href="http://query.nytimes.com/gst/fullpage.html?res=9803E4DB1530F931A35753C1A9639C8B63">2</a> <a href="http://query.nytimes.com/gst/fullpage.html?res=9E02E4DB1530F931A35753C1A9639C8B63">3</a> <a href="http://query.nytimes.com/gst/fullpage.html?res=9C0DE4DB1530F931A35753C1A9639C8B63">4</a> <a href="http://query.nytimes.com/gst/fullpage.html?res=950CE4DB1530F931A35753C1A9639C8B63">5</a></li>
         </ul>
-        <div align="center"><img src="2105_Womans_Day_cover.jpg" alt="Woman's Day Cover, November 15, 2105" width="200" height="259"/><br/>To be published November 2105</div>
+        <div align="center"><img src="http://media.sethroberts.net/reviews/2105_Womans_Day_cover.jpg" alt="Woman's Day Cover, November 15, 2105" width="200" height="259"/><br/>To be published November 2105</div>
         <div class="totop">
           <a href="#top">top</a>
         </div>
