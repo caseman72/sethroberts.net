@@ -27,8 +27,8 @@ Redirect 301 /subscribe/emailconfirm.html /subscribe/emailconfirm/
 	RewriteRule ^(.*)$ http://sethroberts.net/$1 [R=301,L]
 
 	# always move up from index.php
-	RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /([^/]+/)*index\.(html|php)\ HTTP/
-	RewriteRule ^(([^/]+/)*)index\.(html|php)$ http://sethroberts.net/$1 [R=301,L]
+	RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /([^/]+/)*index\.(html|php|htm)\ HTTP/
+	RewriteRule ^(([^/]+/)*)index\.(html|php|htm)$ http://sethroberts.net/$1 [R=301,L]
 
 	# media
 	RewriteCond %{REQUEST_FILENAME} !-d
