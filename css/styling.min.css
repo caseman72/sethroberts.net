@@ -1,7 +1,7 @@
 html,body,div,p,h1,h2,h3,blockquote,ol,ul,li,dl,dt,dd,td,form,fieldset,a{margin:0;padding:0;border:0}
 body{background:#9c9 url(/images/background.gif) repeat-x left top}
 #contentWrapWider{width:925px;margin:0 auto}
-#contentWrap{width:782px;margin:0 auto}
+#contentWrap{width:925px;margin:0 auto}
 * html #mainBody p{overflow:visible;height:1%;display:inline;zoom:1}
 .hpalert{width:120px;background-color:#eee;padding:20px;margin-left:10px}
 img,img a{border:0}
@@ -13,7 +13,7 @@ img,img a{border:0}
 #secFourLeft{float:left;margin-right:10px;width:100%}
 #secFourRight{float:left;width:100%;margin-top:5px}
 #col2Wider{width:643px;float:left}
-#col2{width:500px;float:left}
+#col2{width:643px;float:left}
 #topNav ul{list-style:none;text-align:right;margin-bottom:10px;margin-top:50px;margin-right:18px}
 #topNav li{display:inline;margin-left:10px}
 #topNav a{font:bold 13px Arial,Helvetica,sans-serif;color:#fff;text-decoration:none;letter-spacing:1pt;text-transform:uppercase}

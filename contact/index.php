@@ -4,7 +4,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
   <title>Seth Roberts | Contact</title>
   <meta name="Description" content="How to reach Seth Roberts"/>
-  <link href="/css/styling.min.css" rel="stylesheet" type="text/css"/>
+  <link href="/css/styling.min.css?1335633767" rel="stylesheet" type="text/css"/>
   <link rel="shortcut icon" href="/favicon.ico"/>
 </head>
 <body id="contactSeth">
@@ -75,7 +75,7 @@
           </p>
         </div>
       </div>
-      <div class="mainImage"><img src="/images/scales.jpg" alt="Seth's scales" width="500" height="172"/></div>
+      <div class="mainImage"><img src="/images/scales_wide.jpg" alt="Seth's scales" width="643" height="172"/></div>
       <div id="footer">
         &#169; 2005-<?php echo date("Y") ?>. Seth Roberts
       </div>

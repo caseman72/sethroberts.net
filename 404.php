@@ -31,13 +31,13 @@
           </li>
         </ul>
       </div>
-      <div id="mainBody" style="height: 280px;">
+      <div id="mainBody" style="height: 108px;">
         <h1>Page Not Found</h1><br/>
         The page you are looking for is not here. Please check one of the links above. If this is a broken link, please contact Seth Roberts at
         <a href="mailto:twoutopias@gmail.com">twoutopias@gmail.com</a>.<br/>
       </div>
       <div class="mainImage">
-        <img src="http://sethroberts.net/images/scales.jpg" alt="Seth's scales" width="500" height="172"/>
+        <img src="/images/scales_wide.jpg" alt="Seth's scales" width="643" height="172"/>
       </div>
       <div id="footer">
         &#169; 2005-<?php echo date("Y") ?>. Seth Roberts

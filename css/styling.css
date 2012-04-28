@@ -11,7 +11,7 @@ body {background: #9c9 url(/images/background.gif) repeat-x left top; }
 	margin: 0 auto;
 	}
 
-#contentWrap { width: 782px;  margin: 0 auto; }
+#contentWrap { width: 925px;  margin: 0 auto; }
 
 * html #mainBody p {  /* Thanks, Melanie! */
 /* fix for  Win IE italics bug */
@@ -86,7 +86,7 @@ img, img a { border: 0; }
 #col2Wider { width: 643px; float: left;}
 
 #col2 {
-	width: 500px;
+	width: 643px;
 	float: left;
 		}
 
