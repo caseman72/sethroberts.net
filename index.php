@@ -142,10 +142,8 @@
                 <a name="radio"></a>
                 <legend>&#x2022; Radio KSLD &#x2022; </legend>
                 <ul>
-                  <li>2007 (May 2) Alan, D. <a href="http://www.mypodcast.com/fsaudio/davealan_20070502_1928-21942.mp3">Shangri-La Diet ~Seth Roberts~</a>. <em>Dave Alan the Nighthawk</em>. 52 minutes.</li>
                   <li>2007 (March 3) Punnett, I. <a href="http://media.sethroberts.net/reviews/2007-03-03_Coast_to_Coast_Live_1_Hour.mp3">Seth Roberts</a>. <em>Coast to Coast AM</em>. 60 minutes.</li>
                   <li>2006 (December 6) Pascal, M., &amp; Schott, F. <a href="http://www.restaurantguysradio.com/sle/rg/bin/aud/2006.12.06.01.roberts.mp3">Seth Roberts</a>. <em>The Restaurant Guys</em>. 41 minutes.</li>
-                  <li>2006 (December 3) Pendleton, P. <a href="http://theisleoflight.com/TalkShows/SethRoberts.mp3">A Simple, Healthy &amp; Peaceful Way to Lose Weight Eating What You Want</a> <em>The Isle Of Light</em>. 60 minutes.</li>
                   <li>2006 (October 9) Shafran, A. <a href="http://weightlossradio.libsyn.com/index.php?post_id=138771">Seth Roberts' Shangri-La Diet is so easy the Fat Guy can do it.</a> <em>Dr. Fitness and the Fat Guy Podcast</em>. 56 minutes.</li>
                   <li>2006 (August 7) Muelrath, L. <a href="http://media.sethroberts.net/reviews/fitnessdreammaker.mp3">Teleconference with Seth Roberts</a>. <em>Fitness Dreammaker</em>. 91 minutes.</li>
                   <li>2006 (July 19) Roberts, S. Interview for the <a href="http://www.amazon.com/Shangri-Diet-Hunger-Anything-Weight-Loss/dp/140010257X/ref=ase_sethrobertand-20/102-8713461-6299310?s=books&amp;v=glance&amp;n=283155&amp;tagActionCode=sethrobertand-20=UTF8">audiobook</a>. <em>Tantor Media</em>. (11 minutes) In 2 parts: <a href="http://media.sethroberts.net/reviews/049-ShangriLa_audio_interview.mp3">Part 1</a> (6 minutes) <a href="http://media.sethroberts.net/reviews/050-ShangriLa_audio_interview.mp3">Part 2</a> (5 minutes).</li>
