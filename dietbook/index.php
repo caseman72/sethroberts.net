@@ -77,7 +77,7 @@
         <a href="http://www.tatteredcover.com/NASApp/store/Product?s=showproduct&amp;isbn=0399153640">Tattered Cover Book Store</a>
         <p>
           <br/>
-          The book's progress at <a href="http://media.sethroberts.net/dietbook/2006-08-25_amazon_rankings.pdf">amazon.com</a>, <a href="http://media.sethroberts.net/dietbook/2006-08-25_barnesnoble_rankings.pdf">barnesandnoble.com</a>, and <a href="http://media.sethroberts.net/dietbook/2006-08-25_google_results.pdf">on the  Web</a> (via google). (All as of August 25, 2006)
+          The book's progress at <a href="http://cowboyslike.us/dietbook/2006-08-25_amazon_rankings.pdf">amazon.com</a>, <a href="http://cowboyslike.us/dietbook/2006-08-25_barnesnoble_rankings.pdf">barnesandnoble.com</a>, and <a href="http://cowboyslike.us/dietbook/2006-08-25_google_results.pdf">on the  Web</a> (via google). (All as of August 25, 2006)
         </p>
         <div class="clear"></div>
       </div>

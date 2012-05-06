@@ -49,7 +49,7 @@
         <div class="quoteNorm">One of the guys said to the other, &#x201C;What I don't understand is how a girl can eat a one-pound box of candy and gain 10 pounds.&#x201D;<br/><em>&#x2014; The Daily Californian</em><br/></div>
         <p>The novelist Vladimir Nabokov coined the term <em>doughnut truth</em> to mean &#x201C;only the truth, and the whole truth, with a hole in the truth.&#x201D; This is a good description of what we have been told about weight loss by experts. What they've said isn't wrong, exactly, but it is seriously incomplete &#x2014; and the missing information is very important if you want to lose weight easily and comfortably. The Shangri-La diet allows you to do that because it's based on the whole truth &#x2014; including the previously left-out &#x201C;hole.&#x2014;</p>
         <p align="right">
-          <a href="http://media.sethroberts.net/excerpts/Why_a_Calorie_is_not_a_Calorie.pdf">Read more</a>
+          <a href="http://cowboyslike.us/excerpts/Why_a_Calorie_is_not_a_Calorie.pdf">Read more</a>
         </p>
         <div class="clear"></div>
       </div>
