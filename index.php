@@ -56,7 +56,7 @@
         <!--   Section Two   -->
         <div class="clear"></div>
         <div id="progress">
-          <img src="http://static.flickr.com/111/288209400_33bfddc974.jpg?v=0" alt="Progress as of 10/18/06" width="500" height="499"/>
+          <img src="/images/progress.jpg" alt="Progress as of 10/18/06" title="Progress as of 10/18/06" width="500" height="499" />
           <div style="text-align:left;margin-left: 40px;">These four graphs show the progress of Shangri-la Dieters who have posted their progress in
             the <a href="http://boards.sethroberts.net/index.php?board=5.0">tracking section</a> of the forums.<br/>
             &#x2022; Persons posting their weight: 125 <br/>
