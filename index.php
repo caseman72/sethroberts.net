@@ -4,7 +4,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
   <title>Seth Roberts and The Shangri-La Diet</title>
   <meta name="Description" content="Articles and related links about The Shangri-La Diet and other research by Seth Roberts."/>
-  <link href="/css/styling.min.css?1335636664" rel="stylesheet" type="text/css"/>
+  <link href="/css/styling.min.css?1336420644" rel="stylesheet" type="text/css"/>
   <link rel="shortcut icon" href="/favicon.ico"/>
   <script type="text/javascript" src="/js/jquery.min.js"></script>
 </head>
@@ -38,7 +38,7 @@
           <div id="secOneLeft">
             <h1 class="larger"><em>New York Times</em>&nbsp;<a href="http://www.amazon.com/Shangri-Diet-Hunger-Anything-Weight-Loss/dp/0399533168/ref=ed_oe_p/002-0885004-4236054">Bestseller</a>&nbsp;Now in Paperback</h1>
             <div id="hpBookJacket">
-              <a href="http://www.amazon.com/Shangri-Diet-Hunger-Anything-Weight-Loss/dp/0399533168/ref=ed_oe_p/002-0885004-4236054"><img src="/images/sblBook_paper_front.jpg" alt="The Shangri-La Diet" width="180" height="320" border="0"/></a>
+              <a href="http://www.amazon.com/Shangri-Diet-Hunger-Anything-Weight-Loss/dp/0399533168/ref=ed_oe_p/002-0885004-4236054"><img src="http://media.sethroberts.net/images/sblBook_paper_front.jpg" alt="The Shangri-La Diet" width="180" height="320" border="0"/></a>
             </div>
             <br/>
             <p><span class="littleLarger">"A weight-loss theory that just might benefit a few million people." </span> &#x2014; <em> Stephen Dubner, co- author of </em> <a href="http://www.freakonomics.com">Freakonomics</a></p>
