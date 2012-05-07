@@ -4,7 +4,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
   <title>Seth Roberts - The Shangri-La Diet - Science Behind the Diet</title>
   <meta name="Description" content="Seth Roberts - The Shangri-La Diet - Science Behind the Diet"/>
-  <link href="/css/styling.min.css?1336420644" rel="stylesheet" type="text/css"/>
+  <link href="/css/styling.min.css?1336420645" rel="stylesheet" type="text/css"/>
   <link rel="shortcut icon" href="/favicon.ico"/>
 </head>
 <body id="science">

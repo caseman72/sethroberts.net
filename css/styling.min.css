@@ -1,1 +1,102 @@
-html,body,div,p,h1,h2,h3,blockquote,ol,ul,li,dl,dt,dd,td,form,fieldset,a{margin:0;padding:0;border:0}nbody{background:#9c9 url(/images/background.gif) repeat-x left top}n#contentWrapWider{width:925px;margin:0 auto}n#contentWrap{width:925px;margin:0 auto}n* html #mainBody p{overflow:visible;height:1%;display:inline;zoom:1}n.hpalert{width:120px;background-color:#eee;padding:20px;margin-left:10px}nimg,img a{border:0}n#col1{width:90px;float:left}n#redBg{background-color:#900;height:400px;width:100%}n#sethRoberts{text-align:right;padding-top:80px;margin-right:30px}n#secThreeLeft{width:40%;float:left;margin-right:10px}n#secThreeRight{width:58%;float:left}n#secFourLeft{float:left;margin-right:10px;width:100%}n#secFourRight{float:left;width:100%;margin-top:5px}n#col2Wider{width:643px;float:left}n#col2{width:643px;float:left}n#topNav ul{list-style:none;text-align:right;margin-bottom:10px;margin-top:50px;margin-right:18px}n#topNav li{display:inline;margin-left:10px}n#topNav a{font:bold 13px Arial,Helvetica,sans-serif;color:#fff;text-decoration:none;letter-spacing:1pt;text-transform:uppercase}n#topNav a.yo{color:#ebd600;padding:2px 4px 2px;border:1px #eee solid}n#topNav a:hover.yo,#topNav a.here{color:#000}n#topNav a.yoHere{color:#000;padding:2px 4px 2px;border:1px #eee solid}n#mainBody{font:.9em/1.3em "Trebuchet MS","Times New Roman",sans-serif;padding:20px 30px;background-color:#fff}n.caption{font-size:.8em;text-align:center;margin-top:3px;font-weight:bold}n#mainBody a{color:#900}n#mainBody a:hover{color:#900;text-decoration:none}n#mainBody a:visited{color:#990}n#mainBody h1{font-size:18px;margin:5px 0 10px 0}n#mainBody h1.larger{font-size:130%}n#mainBody h2{color:#333;font-size:12px;margin:20px 0 7px 0;text-transform:uppercase}n#mainBody h2.excerpt{font-size:16px;text-transform:none}n#mainBody h3{font-size:12px;color:#333;margin:10px 0 7px 0}n#mainBody p{margin-bottom:10px}n#mainBody ul{margin-top:10px;margin-left:0}n#mainBody li{margin-bottom:8px;margin-left:15px;list-style:square}n#mainBody hr{margin-top:20px}n#hpBookJacket{float:left;width:200px;height:320px;margin-right:0;margin-top:10px;margin-bottom:0;position:relative}n.hpBookJacketcap{font-size:85%;text-align:center}n#buyTag{font-size:150%;font-weight:bold;margin:3px auto 0;padding:3px 0;width:175px;text-align:center;text-transform:uppercase;border:2px solid #930}n#buyTag a,#buyTag a:visited{color:#930;text-decoration:none}n#buyTag a:hover{color:#000;text-decoration:none}n#col3{float:left;width:192px;font-size:.95em}n#col3 ul{list-style:none;margin-top:18px}n#col3 li{margin-left:10px;padding-bottom:5px;padding-top:2px;margin-right:20px;margin-bottom:4px}n#firstList li{margin-left:10px;border-bottom:1px solid #900;padding-bottom:5px;padding-top:2px;margin-right:20px;margin-bottom:4px}n#col3 li.longSentence{padding-right:40px}n#col3 li.end{margin-top:8px;border-bottom:1px solid #990}n#col3 a{font:12px Arial,Helvetica,sans-serif;color:#fff;text-decoration:none;letter-spacing:1px}n#col3 li{padding:0 5px 5px 10px;border-bottom:1px solid #900}n#col3 li#home{padding:0 5px 5px 10px;border-bottom:1px solid #990}n#col3 a:hover{color:#000}n#col3 a.here{color:#333;text-transform:uppercase;font-weight:bold}n.clear{clear:both}n.totop{text-align:right;font-size:11px}n#footer{font:11px "Trebuchet MS","Times New Roman",sans-serif;margin:5px 0 0 10px}n.contact{line-height:150%}n#subBookJacket{margin:20px 0 10px}n#bookSection a{color:#900;text-decoration:underline}n#bookSection h2{color:#000;font-size:12px;margin-top:10px;text-transform:uppercase}n#bookSection{font:13px/1.3em "Trebuchet MS","Times New Roman",sans-serif;margin-left:15px}n.littleLarger{font-size:1em;line-height:140%;font-weight:bold;color:#333}n#sldBookJacket{float:left;padding-right:20px;padding-bottom:5px;padding-top:10px}n.quoteTop{font-size:110%;line-height:140%;text-align:right}n.quoteNorm{text-align:right}n.quoteBox{text-align:right}n.bookFloatRight{margin-left:7px;margin-top:7px;margin-right:0;margin-bottom:7px;float:right}n.bookFloatLeft{margin-left:0;text-align:right;margin-top:7px;margin-bottom:7px;float:left;margin-right:17px}n#pullBoxRight{margin:0 0 4px 7px;float:right;padding:5px;border:1px solid #ccc;text-align:center}n#pullBoxRight h2{color:#333;font-size:12px;margin:0;text-transform:uppercase}n#pullBoxLeft{margin:0 7px 7px 0;float:left;padding:5px;border:1px solid #ccc}n#pullBoxLeft h2{color:#333;font-size:12px;margin:0 0 7px 0;text-transform:uppercase}n.MarginTop{margin-top:5px}n#bookTourTitle{color:#666;font-size:14px;margin:-15px 0 7px 10px;text-transform:uppercase;background:#fff;width:90px;font-weight:bold;padding:0 0 0 10px}n#quoteBox1{border:5px ridge #87b4d4;margin:20px 0 10px;padding:15px}n#quoteBox1 h2{margin:0 0 5px;text-align:center}n#quoteBox1 p{display:none}n#quoteBox1 p:nth-child(-n+4){display:block}n.quoteDiv{color:#f60;font-weight:bold;text-align:center}n.smaller{font-size:.8em}n.floatBoxLeft{width:250px;float:left}n.recom{color:#c60;font-size:.80em;font-weight:bold;text-transform:uppercase}n#progress{text-align:center}n#progress h2{color:#333;font-size:16px;margin:20px 0 7px 0;text-transform:none}n#progresscap{font-size:.85em/0.90em}n#calendar{position:relative;top:70px}n#calTitle{float:left;width:22px;margin-right:15px}n#calContent{float:left;width:90px;font-size:.80em}n#calContent p{margin:5px 0}n* html #tellFriendForm fieldset,* html #tellFriendForm textarea{width:97%!important}nhtml>/**/body #tellFriendForm fieldset,html>/**/body #tellFriendForm textarea{width:100%}n.error{color:#900!important}n.required{font-weight:700}n.required em{font-weight:400;color:#000!important}nhtml>/**/body textarea{width:100%}n#tellFriendForm{font-size:.88em;margin:0}n#tellFriendForm fieldset{width:100%;margin-bottom:5px;margin-top:-5px}n#tellFriendForm legend{display:none;height:0;font-size:0}n#tellFriendForm input.tighten{margin:-2px 0 0}n#tellFriendForm textarea{font:.9em/1.3em "Trebuchet MS","Times New Roman",sans-serif;color:#333;width:100%}n#addresses input{width:100%;margin-bottom:0}n#publicity fieldset{border:2px solid #ddd;padding:10px;margin-bottom:5px}n#publicity legend{font-size:110%;font-weight:bold;color:#333;text-transform:uppercase;border:1px solid #900;padding:3px}n
+html,body,div,p,h1,h2,h3,blockquote,ol,ul,li,dl,dt,dd,td,form,fieldset,a{margin:0;padding:0;border:0}
+body{background:#9c9 url(/images/background.gif) repeat-x left top}
+#contentWrapWider{width:925px;margin:0 auto}
+#contentWrap{width:925px;margin:0 auto}
+* html #mainBody p{overflow:visible;height:1%;display:inline;zoom:1}
+.hpalert{width:120px;background-color:#eee;padding:20px;margin-left:10px}
+img,img a{border:0}
+#col1{width:90px;float:left}
+#redBg{background-color:#900;height:400px;width:100%}
+#sethRoberts{text-align:right;padding-top:80px;margin-right:30px}
+#secThreeLeft{width:40%;float:left;margin-right:10px}
+#secThreeRight{width:58%;float:left}
+#secFourLeft{float:left;margin-right:10px;width:100%}
+#secFourRight{float:left;width:100%;margin-top:5px}
+#col2Wider{width:643px;float:left}
+#col2{width:643px;float:left}
+#topNav ul{list-style:none;text-align:right;margin-bottom:10px;margin-top:50px;margin-right:18px}
+#topNav li{display:inline;margin-left:10px}
+#topNav a{font:bold 13px Arial,Helvetica,sans-serif;color:#fff;text-decoration:none;letter-spacing:1pt;text-transform:uppercase}
+#topNav a.yo{color:#ebd600;padding:2px 4px 2px;border:1px #eee solid}
+#topNav a:hover.yo,#topNav a.here{color:#000}
+#topNav a.yoHere{color:#000;padding:2px 4px 2px;border:1px #eee solid}
+#mainBody{font:.9em/1.3em "Trebuchet MS","Times New Roman",sans-serif;padding:20px 30px;background-color:#fff}
+.caption{font-size:.8em;text-align:center;margin-top:3px;font-weight:bold}
+#mainBody a{color:#900}
+#mainBody a:hover{color:#900;text-decoration:none}
+#mainBody a:visited{color:#990}
+#mainBody h1{font-size:18px;margin:5px 0 10px 0}
+#mainBody h1.larger{font-size:130%}
+#mainBody h2{color:#333;font-size:12px;margin:20px 0 7px 0;text-transform:uppercase}
+#mainBody h2.excerpt{font-size:16px;text-transform:none}
+#mainBody h3{font-size:12px;color:#333;margin:10px 0 7px 0}
+#mainBody p{margin-bottom:10px}
+#mainBody ul{margin-top:10px;margin-left:0}
+#mainBody li{margin-bottom:8px;margin-left:15px;list-style:square}
+#mainBody hr{margin-top:20px}
+#hpBookJacket{float:left;width:200px;height:320px;margin-right:0;margin-top:10px;margin-bottom:0;position:relative}
+.hpBookJacketcap{font-size:85%;text-align:center}
+#buyTag{font-size:150%;font-weight:bold;margin:3px auto 0;padding:3px 0;width:175px;text-align:center;text-transform:uppercase;border:2px solid #930}
+#buyTag a,#buyTag a:visited{color:#930;text-decoration:none}
+#buyTag a:hover{color:#000;text-decoration:none}
+#col3{float:left;width:192px;font-size:.95em}
+#col3 ul{list-style:none;margin-top:18px}
+#col3 li{margin-left:10px;padding-bottom:5px;padding-top:2px;margin-right:20px;margin-bottom:4px}
+#firstList li{margin-left:10px;border-bottom:1px solid #900;padding-bottom:5px;padding-top:2px;margin-right:20px;margin-bottom:4px}
+#col3 li.longSentence{padding-right:40px}
+#col3 li.end{margin-top:8px;border-bottom:1px solid #990}
+#col3 a{font:12px Arial,Helvetica,sans-serif;color:#fff;text-decoration:none;letter-spacing:1px}
+#col3 li{padding:0 5px 5px 10px;border-bottom:1px solid #900}
+#col3 li#home{padding:0 5px 5px 10px;border-bottom:1px solid #990}
+#col3 a:hover{color:#000}
+#col3 a.here{color:#333;text-transform:uppercase;font-weight:bold}
+.clear{clear:both}
+.totop{text-align:right;font-size:11px}
+#footer{font:11px "Trebuchet MS","Times New Roman",sans-serif;margin:5px 0 0 10px}
+.contact{line-height:150%}
+#subBookJacket{margin:20px 0 10px}
+#bookSection a{color:#900;text-decoration:underline}
+#bookSection h2{color:#000;font-size:12px;margin-top:10px;text-transform:uppercase}
+#bookSection{font:13px/1.3em "Trebuchet MS","Times New Roman",sans-serif;margin-left:15px}
+.littleLarger{font-size:1em;line-height:140%;font-weight:bold;color:#333}
+#sldBookJacket{float:left;padding-right:20px;padding-bottom:5px;padding-top:10px}
+.quoteTop{font-size:110%;line-height:140%;text-align:right}
+.quoteNorm{text-align:right}
+.quoteBox{text-align:right}
+.bookFloatRight{margin-left:7px;margin-top:7px;margin-right:0;margin-bottom:7px;float:right}
+.bookFloatLeft{margin-left:0;text-align:right;margin-top:7px;margin-bottom:7px;float:left;margin-right:17px}
+#pullBoxRight{margin:0 0 4px 7px;float:right;padding:5px;border:1px solid #ccc;text-align:center}
+#pullBoxRight h2{color:#333;font-size:12px;margin:0;text-transform:uppercase}
+#pullBoxLeft{margin:0 7px 7px 0;float:left;padding:5px;border:1px solid #ccc}
+#pullBoxLeft h2{color:#333;font-size:12px;margin:0 0 7px 0;text-transform:uppercase}
+.MarginTop{margin-top:5px}
+#bookTourTitle{color:#666;font-size:14px;margin:-15px 0 7px 10px;text-transform:uppercase;background:#fff;width:90px;font-weight:bold;padding:0 0 0 10px}
+#quoteBox1{border:5px ridge #87b4d4;margin:20px 0 10px;padding:15px}
+#quoteBox1 h2{margin:0 0 5px;text-align:center}
+#quoteBox1 p{display:none}
+#quoteBox1 p:nth-child(-n+4){display:block}
+.quoteDiv{color:#f60;font-weight:bold;text-align:center}
+.smaller{font-size:.8em}
+.floatBoxLeft{width:250px;float:left}
+.recom{color:#c60;font-size:.80em;font-weight:bold;text-transform:uppercase}
+#progress{text-align:center}
+#progress h2{color:#333;font-size:16px;margin:20px 0 7px 0;text-transform:none}
+#progresscap{font-size:.85em/0.90em}
+#calendar{position:relative;top:70px}
+#calTitle{float:left;width:22px;margin-right:15px}
+#calContent{float:left;width:90px;font-size:.80em}
+#calContent p{margin:5px 0}
+* html #tellFriendForm fieldset,* html #tellFriendForm textarea{width:97%!important}
+html>/**/body #tellFriendForm fieldset,html>/**/body #tellFriendForm textarea{width:100%}
+.error{color:#900!important}
+.required{font-weight:700}
+.required em{font-weight:400;color:#000!important}
+html>/**/body textarea{width:100%}
+#tellFriendForm{font-size:.88em;margin:0}
+#tellFriendForm fieldset{width:100%;margin-bottom:5px;margin-top:-5px}
+#tellFriendForm legend{display:none;height:0;font-size:0}
+#tellFriendForm input.tighten{margin:-2px 0 0}
+#tellFriendForm textarea{font:.9em/1.3em "Trebuchet MS","Times New Roman",sans-serif;color:#333;width:100%}
+#addresses input{width:100%;margin-bottom:0}
+#publicity fieldset{border:2px solid #ddd;padding:10px;margin-bottom:5px}
+#publicity legend{font-size:110%;font-weight:bold;color:#333;text-transform:uppercase;border:1px solid #900;padding:3px}
