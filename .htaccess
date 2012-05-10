@@ -10,17 +10,18 @@ DirectorySlash Off
 # Default index files. NOTE: Does not work for /. See below.
 DirectoryIndex index.php
 
-# moved these files
-Redirect 301 /archives/forumquotes.html /archives/
-Redirect 301 /subscribe/subscribed.html /subscribe/subscribed/
-Redirect 301 /subscribe/unsubscribed.html /subscribe/unsubscribed/
-Redirect 301 /subscribe/alreadyonlist.html /subscribe/alreadyonlist/
-Redirect 301 /subscribe/notonlist.html /subscribe/notonlist/
-Redirect 301 /subscribe/emailconfirm.html /subscribe/emailconfirm/
 
 <IfModule mod_rewrite.c>
 	RewriteEngine On
 	RewriteBase /
+
+	# moved these files - permanently
+	RewriteRule ^/archives/forumquotes.html$ /archives/                   [R=301,NC,L]
+	RewriteRule ^/subscribe/subscribed.html$ /subscribe/subscribed/       [R=301,NC,L]
+	RewriteRule ^/subscribe/unsubscribed.html$ /subscribe/unsubscribed/   [R=301,NC,L]
+	RewriteRule ^/subscribe/alreadyonlist.html$ /subscribe/alreadyonlist/ [R=301,NC,L]
+	RewriteRule ^/subscribe/notonlist.html$ /subscribe/notonlist/         [R=301,NC,L]
+	RewriteRule ^/subscribe/emailconfirm.html$ /subscribe/emailconfirm/   [R=301,NC,L]
 
 	# no www
 	RewriteCond %{HTTP_HOST} ^www\. [NC]
