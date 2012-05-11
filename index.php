@@ -7,7 +7,6 @@
   <meta name="Description" content="Articles and related links about The Shangri-La Diet and other research by Seth Roberts."/>
   <link href="/css/styling.min.css?1336420645" rel="stylesheet" type="text/css"/>
   <link rel="shortcut icon" href="/favicon.ico"/>
-  <script type="text/javascript" src="/js/jquery.min.js"></script>
 </head>
 <body id="homePage">
   <!-- Amy Rogers designed and developed this website for Seth Roberts in 2006. -->
@@ -201,35 +200,24 @@
     </div>
     <div class="clear"></div>
   </div>
-<script type="text/javascript" src="/js/flash-detect.min.js"></script>
-<script type="text/javascript">
-  $(document).ready(function(){
-    var quotes = $("#quoteBox1").find("p").hide()
-      , lastQ = quotes.length
-      , index = Math.floor(Math.random()*(lastQ--));
-
-    for(var i=0; i<4; i++) {
-      quotes.eq(index).show();
-      if(++index > lastQ) index = 0;
-    }
-
-    if(window.FlashDetect && FlashDetect.installed) {
-      $("#mp3_player").html([
-        "<span>The Dennis Prager Show interview with Seth Roberts:</span>"
-        , '<embed type="application/x-shockwave-flash" flashvars="audioUrl=http://media.sethroberts.net/reviews/dennispragermay3interview.mp3" src="http://www.google.com/reader/ui/3523697345-audio-player.swf" width="360" height="27" quality="best"></embed>'
-      ].join(""));
-    }
-  });
-</script>
 <script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(["_setAccount", "UA-22788867-1"]);
   _gaq.push(["_trackPageview"]);
-
   (function() {
-    var ga = document.createElement("script"); ga.type = "text/javascript"; ga.async = true;
-    ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";
-    var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ga, s);
+    var top_script = document.getElementsByTagName("script")[0]
+      , add_script = function(tag, src) {
+          var node = document.createElement("script");
+          node.type = "text/javascript", node.async = true, node.src = src;
+          tag.parentNode.insertBefore(node, tag);
+          return node;
+      };
+
+    // add in order
+    top_script = add_script(top_script, "/js/jquery.min.js");
+    top_script = add_script(top_script, "/js/flash-detect.min.js");
+    top_script = add_script(top_script, "/js/index.min.js");
+    top_script = add_script(top_script, ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js");
   })();
 </script>
 </body>
