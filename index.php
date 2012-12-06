@@ -167,7 +167,7 @@
         </p>
       </div>
       <div id="footer">
-        &#169; 2005-<?php echo date("Y") ?>. Seth Roberts
+        &#169; 2005-<?php echo date("Y") ?> ~ Seth Roberts
       </div>
     </div>
     <div id="col3">

@@ -20,6 +20,8 @@ Redirect 301 /subscribe/alreadyonlist.html /subscribe/alreadyonlist/
 Redirect 301 /subscribe/notonlist.html /subscribe/notonlist/
 Redirect 301 /subscribe/emailconfirm.html /subscribe/emailconfirm/
 
+RedirectMatch 403 /\..*$
+
 <IfModule mod_rewrite.c>
 	RewriteEngine On
 	RewriteBase /

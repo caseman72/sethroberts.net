@@ -145,7 +145,7 @@
           <div class="clear"></div>
         </div>
         <div id="footer">
-           &copy; 2005-<?php echo date("Y") ?>. Seth Roberts
+           &copy; 2005-<?php echo date("Y") ?> ~ Seth Roberts
         </div>
       </div>
       <div id="col3">

@@ -78,7 +78,7 @@
       </div>
       <div class="mainImage"><img src="/images/scales_wide.jpg" alt="Seth's scales" width="643" height="172"/></div>
       <div id="footer">
-        &#169; 2005-<?php echo date("Y") ?>. Seth Roberts
+        &#169; 2005-<?php echo date("Y") ?> ~ Seth Roberts
       </div>
     </div>
     <div id="col3">
