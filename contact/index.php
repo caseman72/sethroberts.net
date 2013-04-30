@@ -36,7 +36,7 @@
         <h1>Contact</h1>
         <h2>Author</h2>
         <p class="contact">
-          <a href="mailto:seth@shangriladiet.com">seth@shangriladiet.com</a><br/>
+          <a href="mailto:twoutopias@gmail.com">twoutopias@gmail.com</a><br/>
           158.0150.3407 (Beijing) and 510.418.7753 (Berkeley)<br/>
         </p>
         <h2>Publicists</h2>
