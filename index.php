@@ -214,9 +214,7 @@
       };
 
     // add in order
-    top_script = add_script(top_script, "/js/jquery.min.js");
-    top_script = add_script(top_script, "/js/flash-detect.min.js");
-    top_script = add_script(top_script, "/js/index.min.js");
+    top_script = add_script(top_script, "/js/assets.min.js");
     top_script = add_script(top_script, ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js");
   })();
 </script>
