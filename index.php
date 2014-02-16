@@ -5,7 +5,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
   <title>Seth Roberts and The Shangri-La Diet</title>
   <meta name="Description" content="Articles and related links about The Shangri-La Diet and other research by Seth Roberts."/>
-  <link href="/css/styling.min.css?1336420645" rel="stylesheet" type="text/css"/>
+  <link href="/css/styling.min.css?1336420845" rel="stylesheet" type="text/css"/>
+  <link href="/css/mp3-buttons.min.css?1336420845" rel="stylesheet" type="text/css"/>
   <link rel="shortcut icon" href="/favicon.ico"/>
 </head>
 <body id="homePage">
@@ -200,6 +201,7 @@
     </div>
     <div class="clear"></div>
   </div>
+<script type="text/javascript" src="/js/assets.min.js?1336420845"></script>
 <script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(["_setAccount", "UA-22788867-1"]);
@@ -214,7 +216,6 @@
       };
 
     // add in order
-    top_script = add_script(top_script, "/js/assets.min.js");
     top_script = add_script(top_script, ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js");
   })();
 </script>
