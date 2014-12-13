@@ -43,7 +43,7 @@
           <a href="/spy/"><em>Spy</em> magazine</a><br/>
           <a href="/things/">Things I Like</a>
         </div>
-        <p>He is on the editorial board of the journal <em>Nutrition</em> and has published dozens of scientific articles on many topics, including health, nutrition, and weight control.</p>
+        <p>He was on the editorial board of the journal <em>Nutrition</em> and had published dozens of scientific articles on many topics, including health, nutrition, and weight control.</p>
         <h2>Articles By</h2>
         <ul>
           <li>unpublished Roberts, S. <a href="http://media.sethroberts.net/about/2005_Three_Things_Statistics_Textbooks_Don't_Tell_You _Dec_2005.pdf">Three things statistics textbooks don't tell you</a>.</li>
