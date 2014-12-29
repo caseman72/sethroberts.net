@@ -35,7 +35,7 @@
       <div id="mainBody">
         <h1>About the Author</h1>
         <img class="bookFloatLeft" src="/images/sethrobertsPicBox.jpg" alt="Seth Roberts"/>
-        <p>Seth Roberts, Ph.D., is a professor of psychology at <a href="http://www.tsinghua.edu.cn/eng/index.jsp">Tsinghua University</a> in Beijing and a professor emeritus of psychology at the University of California at Berkeley.
+        <p>Seth Roberts, Ph.D., (1954 - 2014) was a professor of psychology at <a href="http://www.tsinghua.edu.cn/eng/index.jsp">Tsinghua University</a> in Beijing and a professor emeritus of psychology at the University of California at Berkeley.
         </p>
         <div id="pullBoxRight">
           <h2>More about<br/>the author</h2>
@@ -43,7 +43,7 @@
           <a href="/spy/"><em>Spy</em> magazine</a><br/>
           <a href="/things/">Things I Like</a>
         </div>
-        <p>He is on the editorial board of the journal <em>Nutrition</em> and has published dozens of scientific articles on many topics, including health, nutrition, and weight control.</p>
+        <p>He was on the editorial board of the journal <em>Nutrition</em> and had published dozens of scientific articles on many topics, including health, nutrition, and weight control.</p>
         <h2>Articles By</h2>
         <ul>
           <li>unpublished Roberts, S. <a href="http://media.sethroberts.net/about/2005_Three_Things_Statistics_Textbooks_Don't_Tell_You _Dec_2005.pdf">Three things statistics textbooks don't tell you</a>.</li>
